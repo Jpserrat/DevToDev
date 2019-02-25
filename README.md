@@ -5,7 +5,7 @@ Educational site to connect people who want to learn programming with people who
 
 ## Getting Started
 The aplication is deployed in Heroku and can be acessed anytime by acessing the below link:
-
+https://dev-to-dev.herokuapp.com/
 
 Additional implementations and improvements
 Althouth the app is fully functional, improvements can be made to increase user's experience:
